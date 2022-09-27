@@ -1,17 +1,17 @@
 body {
-    background-color: purple;
+    background-color: lightcoral;
 }
 h1 {
-    color: yellow;
+    color: rgb(0, 0, 50);
     margin-left: 35px;
 }
 p {
-    color: peachpuff;
+    color: rgb(0, 0, 50);
     outline-color: black;
 }
 h2 {
-    color: palegoldenrod;
+    color: rgb(0, 0, 50);
 }
 ul {
-    color: bisque;
+    color: rgb(0, 0, 50);
 }

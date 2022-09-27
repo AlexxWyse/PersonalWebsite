@@ -1,0 +1,17 @@
+body {
+    background-color: purple;
+}
+h1 {
+    color: yellow;
+    margin-left: 35px;
+}
+p {
+    color: peachpuff;
+    outline-color: black;
+}
+h2 {
+    color: palegoldenrod;
+}
+ul {
+    color: bisque;
+}

@@ -1,5 +1,5 @@
 body {
-    background-color: lightcoral;
+    background-color: lightblue;
 }
 h1 {
     color: rgb(0, 0, 50);
@@ -17,5 +17,14 @@ ul {
 }
 
 .aboutme {
+    text-align: center;
+}
+body
+
+.SchoolName {
+    text-align: center;
+}
+nav {
+    background-color: lightblue;
     text-align: center;
 }

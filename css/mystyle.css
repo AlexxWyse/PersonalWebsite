@@ -1,9 +1,10 @@
 body {
-    background-color: lightblue;
+    background-color: lightgoldenrodyellow;
 }
 h1 {
     color: rgb(0, 0, 50);
     margin-left: 35px;
+    font-family: 'Montserrat', sans-serif;
 }
 p {
     color: rgb(0, 0, 50);
@@ -28,3 +29,5 @@ nav {
     background-color: lightblue;
     text-align: center;
 }
+
+

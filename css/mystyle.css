@@ -26,7 +26,9 @@ ul {
 nav {
     display: flex;
     justify-content: center;
-    
+}
+nav ul li {
+    paddi
 }
 
 .footer {
@@ -59,6 +61,7 @@ p.para2 {
     background-color: lightblue;
     padding-bottom: 10px;
 }
-p.inline {
+ul.inline {
     display: inline;
+    list-style-type: none;
 }

@@ -1,6 +1,7 @@
 body {
     background-color: #EDDDD0;
 }
+
 h1.header {
     color: rgb(0, 0, 50);
     margin-left: 35px;
@@ -23,7 +24,6 @@ ul {
     text-align: center;
 }
 nav {
-    background-color: lightblue;
     text-align: center;
 }
 
@@ -32,12 +32,29 @@ nav {
     background-color: lightblue;
     justify-content: center;
 }
-
+main {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 300px 100px;
+}
 .image1 {
-    display: flex;
-    
+    display: grid;
+    grid-column: 2/2;
+    grid-row: 1/1;
+}
+section.para1 {
+    display: grid;
+    grid-column: 1/2;
+    grid-row: 1/1;
+}
+p.para2 {
+    display: grid;
+    grid-column: 1/2;
+    grid-row: 2/2;
 }
 h2.aboutme {
-    display: flex;
-    justify-content: start;
+}
+.container {
+    background-color: lightblue;
+    padding: 1px;
 }

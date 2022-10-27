@@ -1,10 +1,12 @@
 body {
-    background-color: lightgoldenrodyellow;
+    background-color: #EDDDD0;
 }
-h1 {
+h1.header {
     color: rgb(0, 0, 50);
     margin-left: 35px;
     font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
 }
 p {
     color: rgb(0, 0, 50);
@@ -17,11 +19,6 @@ ul {
     color: rgb(0, 0, 50);
 }
 
-.aboutme {
-    text-align: center;
-}
-body
-
 .SchoolName {
     text-align: center;
 }
@@ -30,4 +27,17 @@ nav {
     text-align: center;
 }
 
+.footer {
+    display: flex;
+    background-color: lightblue;
+    justify-content: center;
+}
 
+.image1 {
+    display: flex;
+    
+}
+h2.aboutme {
+    display: flex;
+    justify-content: start;
+}

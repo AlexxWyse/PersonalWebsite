@@ -6,8 +6,7 @@ h1.header {
     color: rgb(0, 0, 50);
     margin-left: 35px;
     font-family: 'Montserrat', sans-serif;
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 p {
     color: rgb(0, 0, 50);
@@ -23,12 +22,17 @@ ul {
 .SchoolName {
     text-align: center;
 }
-nav {
-    display: flex;
-    justify-content: center;
-}
+
 nav ul li {
-    paddi
+    padding: 10px;
+}
+nav ul{
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    flex-direction: row;
+    text-align: center;
+    display: flex;
 }
 
 .footer {
@@ -61,7 +65,4 @@ p.para2 {
     background-color: lightblue;
     padding-bottom: 10px;
 }
-ul.inline {
-    display: inline;
-    list-style-type: none;
-}
+

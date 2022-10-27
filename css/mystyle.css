@@ -7,6 +7,7 @@ h1.header {
     margin-left: 35px;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    background: lightblue;
 }
 p {
     color: rgb(0, 0, 50);
@@ -35,14 +36,15 @@ nav ul{
     display: flex;
 }
 
-.footer {
+footer {
     background-color: lightblue;
     text-align: center;
+
 }
 main {
     display: grid;
     grid-template-columns: 2fr 1fr;
-    grid-template-rows: 50px 300px 100px; 
+    grid-template-rows: 50px 300px 300px; 
 }
 a.image1 {
     grid-column: 2/2;

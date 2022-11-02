@@ -33,13 +33,18 @@ nav ul{
     text-align: center;
     display: flex;
 }
-
+section ul {
+    padding: 0px;
+}
 section ul li {
     border-bottom: 2px solid grey;
+    list-style-type: none;
+    padding-top: 10px;
 }
 section ul li:last-child {
     border-style: hidden;
 }
+
 footer {
     background-color: lightblue;
     text-align: center;
@@ -49,6 +54,9 @@ main {
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 50px 300px 300px; 
+}
+main.courses {
+    display: block;
 }
 a.image1 {
     grid-column: 2/2;

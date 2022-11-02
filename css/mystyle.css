@@ -34,6 +34,12 @@ nav ul{
     display: flex;
 }
 
+section ul li {
+    border-bottom: 2px solid grey;
+}
+section ul li:last-child {
+    border-style: hidden;
+}
 footer {
     background-color: lightblue;
     text-align: center;

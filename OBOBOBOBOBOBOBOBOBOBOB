@@ -1,0 +1,173 @@
+[33mcommit 8ed584b875443f23a0db15c0396ee6803a2b57cb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Wed Nov 2 12:56:56 2022 -0700
+
+    created extra padding on top and got rid of the ul dot and padding
+
+[33mcommit 9b778e1e7cc458985b0c74840d0897f3aed0a67d[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Wed Nov 2 12:49:27 2022 -0700
+
+    created borders and added extra information to each part of the container
+
+[33mcommit 3ef640757841b64f2a240a95944787500cf51280[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Wed Nov 2 12:32:35 2022 -0700
+
+    changed nav from row to column
+
+[33mcommit f85dadbf95a6c37237f36dab342db83210b8643a[m[33m ([m[1;32mlab8[m[33m)[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Thu Oct 27 12:11:33 2022 -0700
+
+    retouched hyperlinks and fixed locations
+
+[33mcommit 07b91bdce14ac937f49597dd96a8a4dfccaa87e8[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Thu Oct 27 12:06:23 2022 -0700
+
+    added header and footer to courses page
+
+[33mcommit bc8937f155638fa027e3ba6e35c9249739cedebd[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Thu Oct 27 11:55:38 2022 -0700
+
+    added header and footer to school page
+
+[33mcommit 8320c8c67f8e59d8f5d9075dabe6d069ad4a9a54[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Thu Oct 27 11:25:30 2022 -0700
+
+    fixed courses and school from having no padding and fixed about me grid selection
+
+[33mcommit dc6d20d4ad34f054e67f18c1841cff7458436340[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Thu Oct 27 11:10:58 2022 -0700
+
+    fixing nav to ul rather than p
+
+[33mcommit 74026ae48fc8c0b2cdf9c0bacebc5821ddad08f5[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Thu Oct 27 11:06:57 2022 -0700
+
+    tweaked css and fixed grid implementations
+
+[33mcommit 4ab70e1c1ae9ffc3a54bc1f89242b3a790cd3d9c[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Thu Oct 27 10:29:56 2022 -0700
+
+    fixed website semantics and implemented new classes to order css from
+
+[33mcommit e7f4c467ceecf1c360c5521880624582faafce10[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Thu Oct 27 09:52:42 2022 -0700
+
+    added flexbox properties and header/footer to site
+
+[33mcommit 75bda06bdb5e42094a3ecc4cd2f57669eebce44a[m[33m ([m[1;32mweek8[m[33m, [m[1;32mweek6[m[33m, [m[1;32mweek5[m[33m)[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Wed Oct 5 13:32:34 2022 -0700
+
+    added google fonts and implemented it via h1
+
+[33mcommit d80dd55b90e2de040b2920665b2ed8ff726106e9[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Wed Oct 5 12:50:27 2022 -0700
+
+    added h1 'My Courses'
+
+[33mcommit 6859d705b32a38866acd991b1c384f9e84d1a7f4[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Wed Oct 5 12:48:41 2022 -0700
+
+    added line break to fix courses.html design
+
+[33mcommit 928878254afa970aa99d09df29c99e340d6a7c80[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Wed Oct 5 12:46:27 2022 -0700
+
+    center aligned text, redid folder setup, and changed background color
+
+[33mcommit 177a868ae0252f91045439293a087ac3299a9e7b[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Oct 4 16:43:19 2022 -0700
+
+    set up nav table and centered about alex
+
+[33mcommit 3f7f30853a8c87985f27cdaa1f25a568da728bd8[m[33m ([m[1;32mcssimplement[m[33m)[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 27 16:24:51 2022 -0700
+
+    changed colors to match contrast acceptability
+
+[33mcommit dfdcfefc79622a23c316583a3df761da0a09db89[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 27 16:23:59 2022 -0700
+
+    changed colors to match contrast acceptability
+
+[33mcommit e0408b03b7890ef93d0bc4d24bb1b85a7849c0c1[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 27 16:14:24 2022 -0700
+
+    changed color of background via css
+
+[33mcommit 9d0745fbf0b7f78e4d1f82d07e136354e59d6411[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 27 16:07:25 2022 -0700
+
+    added apple along with link to appropriate website
+
+[33mcommit 40139e395f60b7828018376bab1126fbc26a8e04[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 27 15:59:29 2022 -0700
+
+    added apple link and iamge
+
+[33mcommit a75a1bb77fca3e83603ae7ddfe226ac60dfae854[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 27 14:52:47 2022 -0700
+
+    added css to implement into main
+
+[33mcommit 439b502b50f921f0b3fbd67cc0ec7d39318ba93c[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 27 13:42:26 2022 -0700
+
+    Added CSS background and h1
+
+[33mcommit 60c57108c8b6a4a61b32ca4c56817413ee96986b[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 27 13:20:16 2022 -0700
+
+    Added BCIT LOGO including weblink & semantic tags
+
+[33mcommit 9c6d466d8f7c1ae3bcf851a34d96dacc2c372bc0[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 20 16:32:43 2022 -0700
+
+    Added Hyperlink to List
+
+[33mcommit a4605c55b0781178e94d97f1c201b4f3b5c6e006[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 20 16:29:07 2022 -0700
+
+    Added 'Courses' to h2
+
+[33mcommit cf3c2facf62fd619c86dfaf0706fd540c19f6f4b[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 20 16:28:04 2022 -0700
+
+    Worked on courses and included names
+
+[33mcommit 4e91b980ce6845a9b2f1cb98d86bf8365b55f8c4[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 20 16:26:15 2022 -0700
+
+    Worked on paragraph about myself
+
+[33mcommit 2a2c035685561de131ccd55a66c1347b09934f89[m
+Author: Alex <lathamwyse123@gmail.com>
+Date:   Tue Sep 20 16:19:05 2022 -0700
+
+    Lab 2 document setup

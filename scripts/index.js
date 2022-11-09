@@ -16,8 +16,8 @@ ACIT1620,
 ACIT1420,
 ACIT1515];
 
-
+let userinput;
 do {
-    let userinput = prompt("Enter a 4 digit code: ") 
-} while (!isNaN && userinput.length !== 4);
+    userinput = prompt("Enter a 4 digit code: ") 
+} while (isNaN(Number(userinput)) || userinput.length !== 4);
     

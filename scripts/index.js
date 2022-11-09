@@ -20,4 +20,8 @@ let userinput;
 do {
     userinput = prompt("Enter a 4 digit code: ") 
 } while (isNaN(Number(userinput)) || userinput.length !== 4);
+
+for (let course in courseList) {
+    course.code.includes(userinput)
+}
     

@@ -17,6 +17,7 @@ ACIT1420,
 ACIT1515];
 
 
-let userinput = prompt("Enter a 4 digit code: ")
-
-while (userinput != courseList.code.slice(4:))
+do {
+    let userinput = prompt("Enter a 4 digit code: ") 
+} while (!isNaN && userinput.length !== 4);
+    

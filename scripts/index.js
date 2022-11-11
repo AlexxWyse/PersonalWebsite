@@ -22,10 +22,17 @@ do {
 } while (isNaN(Number(userinput)) || userinput.length !== 4);
 
 for (let course in courseList) {
-    if (course[0].includes(userinput) == '1420' || '1620' || '1515') {
-        console.log(`Yes, I am taking ACIT ${userinput}.`)
-    } else {
-        console.log('fail')
+    if ((courseList[course].code).includes(userinput)) {
+        console.log(`Yes, I am taking the course: ACIT ${userinput}`);
+        break;
+    } else  if (courseList.length-1 == course) {
+        let temp = {
+            code: null,
+            name: null,
+        };
+        temp.code = userinput
+        courseList.push(temp);
+        console.log(courseList);
+        break;
     }
-    
 }
